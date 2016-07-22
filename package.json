@@ -1,0 +1,15 @@
+{
+  "name": "07.21_solo_mongoose",
+  "version": "1.0.0",
+  "description": "This was a solo assignment at Prime Digital Academy. The instructions were provided on the Mongoose website at the following address: http://mongoosejs.com/docs/index.html",
+  "main": "getting-started.js",
+  "dependencies": {
+    "mongoose": "^4.5.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
